@@ -8,9 +8,13 @@
 
 **Selected works:**
 
-[Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://openreview.net/forum?id=JsAMuzA9o2) @ICML 2023
+Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models @EMNLP 2023, findings (coming soon)
+
+[Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://openreview.net/forum?id=JsAMuzA9o2) @ICML 2023, poster
 
 [Learning Exploration Policies with View-based Intrinsic Rewards](https://openreview.net/forum?id=C2_6qBhe5fH) @NeurIPS 2022 DRL Workshop
+
+
 
 More ongoing ...
 
