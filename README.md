@@ -12,7 +12,7 @@
 
 [Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) In submission
 
-[Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://openreview.net/forum?id=JsAMuzA9o2) @ICML 2023, poster
+[Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://arxiv.org/abs/2308.13661) @ICML 2023, poster
 
 [Learning Exploration Policies with View-based Intrinsic Rewards](https://openreview.net/forum?id=C2_6qBhe5fH) @NeurIPS 2022 DRL Workshop
 
