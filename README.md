@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on: 🤖**Embodied AI**, ⛏️**Reinforcement Learning**, and 📚**NLP**
 
-📫 How to reach me: telepathy
+📫 How to reach me: telepathy, or roihn[at]umich[dot]edu
 
 **Selected works:**
 
@@ -15,6 +15,8 @@
 [Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://arxiv.org/abs/2308.13661) @ICML 2023, poster
 
 [Learning Exploration Policies with View-based Intrinsic Rewards](https://openreview.net/forum?id=C2_6qBhe5fH) @NeurIPS 2022 DRL Workshop
+
+[Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations](https://arxiv.org/abs/2311.06330) preprint.
 
 
 
