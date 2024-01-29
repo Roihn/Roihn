@@ -10,7 +10,7 @@
 
 [Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models](https://arxiv.org/abs/2310.19619) @EMNLP 2023, findings
 
-[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) In submission
+[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ICRA 2024
 
 [Go Beyond Imagination: Maximizing Episodic Reachability with World Models](https://arxiv.org/abs/2308.13661) @ICML 2023, poster
 
