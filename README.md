@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+My+name+is+Run(Roihn)+Peng!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
-🏫 @Umich incoming PhD (Before @SJTU)
+🏫 @Umich Ph.D. student of Computer Science & Engineering (Before @SJTU)
 
 🔭 I’m currently working on: 🤖**Embodied AI**, ⛏️**Reinforcement Learning**, and 📚**NLP**
 
