@@ -18,6 +18,8 @@
 
 [Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations](https://arxiv.org/abs/2311.06330) preprint.
 
+[Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents](https://arxiv.org/abs/2402.12327) @EMNLP 2024, findings
+
 
 
 More ongoing ...
