@@ -20,7 +20,7 @@
 
 [Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents](https://arxiv.org/abs/2402.12327) @EMNLP 2024, findings
 
-[Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation](arxiv.org/abs/2504.16060) 2025, preprint.
+[Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation](https://arxiv.org/abs/2504.16060) 2025, preprint.
 
 
 
